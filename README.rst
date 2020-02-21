@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzdog234%2Fipython-sql.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzdog234%2Fipython-sql?ref=badge_shield)
+
 ===========
 ipython-sql
 ===========
@@ -312,3 +314,7 @@ Credits
 .. _Distribute: http://pypi.python.org/pypi/distribute
 .. _Buildout: http://www.buildout.org/
 .. _modern-package-template: http://pypi.python.org/pypi/modern-package-template
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzdog234%2Fipython-sql.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzdog234%2Fipython-sql?ref=badge_large)
